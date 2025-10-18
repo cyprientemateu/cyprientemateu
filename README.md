@@ -92,7 +92,7 @@ Bash | YAML | Groovy | Git | Linux
 ---
 
 ## 🌐 Let's Connect & Collaborate  
-💼 [LinkedIn](https://www.linkedin.com/in/cyprien-temateu)  
+💼 [LinkedIn](https://www.linkedin.com/in/cctemateu)  
 🐙 [GitHub](https://github.com/cyprientemateu)
 
 ---
