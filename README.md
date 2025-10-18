@@ -1,4 +1,4 @@
-<h1 align="center" style="background-color:#0d1117; color:#58a6ff; padding:15px; border-radius:10px;">
+<h1 align="center" style="background-color:#7E22CE; color:#58a6ff; padding:15px; border-radius:10px;">
   👋 Hi, I'm <span style="color:#facc15;">Cyprien Temateu</span> <br>
   <span style="font-size:22px; color:#10b981;">DevOps Engineer | Cloud | Security Automation</span>
 </h1>
