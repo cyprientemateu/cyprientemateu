@@ -1,14 +1,16 @@
-<h1 align="center" style="background-color:#7E22CE; color:#58a6ff; padding:15px; border-radius:10px;">
-  👋 Hi, I'm <span style="color:#facc15;">Cyprien Temateu</span> <br>
-  <span style="font-size:22px; color:#10b981;">DevOps Engineer | Cloud | Security Automation</span>
-</h1>
-
+<!-- Header with name and title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=AWS+Certified+%7C+Kubernetes+%7C+Jenkins;Terraform+%7C+Ansible+%7C+Docker;CI%2FCD+Pipeline+Automation;Cloud+Security+%26+Monitoring" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E22CE&height=240&section=header&text=Cyprien%20Temateu%20%7C%20DevOps%20Engineer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
+---
 
-# 👋 Hey there, I'm Cyprien Temateu
+### 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cyprientemateu/cyprientemateu/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
 
 ## 🚀 About Me  
 ```js
