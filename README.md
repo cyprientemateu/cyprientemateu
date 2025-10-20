@@ -108,7 +108,7 @@ Bash | YAML | Groovy | Git | Linux
 ---
 
 ## 🐍 Contribution Snake  
-![snake gif](https://github.com/cyprientemateu/cyprientemateu/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/cyprientemateu/cyprientemateu/output/snake.svg)
 
 ---
 
