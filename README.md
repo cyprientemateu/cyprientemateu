@@ -28,10 +28,10 @@ const cyprien = {
   location: "Forney, Texas 🌎",
   
   currentlyWorkingOn: {
-    "🚀": "CI/CD pipelines with Jenkins, GitHub Actions, and Ansible",
-    "🧠": "Automation with Terraform, Docker, and Bash",
-    "☁️": "AWS infrastructure design & optimization",
-    "🛡️": "Cloud security and monitoring using CloudWatch"
+    " ci_cd 🚀": "Building CI/CD pipelines with Jenkins, GitHub Actions & Ansible",
+    "automation 🧠": "Infrastructure automation using Terraform, Docker, and Bash",
+    "cloud ☁️": "Designing and optimizing AWS cloud environments",
+    "security 🛡️": "Hardening infrastructure with DevSecOps and monitoring tools"
   },
   
   expertise: [
@@ -41,7 +41,7 @@ const cyprien = {
     "🐳 Containers & Orchestration (Docker, Kubernetes, ArgoCD)",
     "📊 Monitoring & Observability (CloudWatch, Prometheus, Grafana)",
     "🛡️ DevSecOps & Automation",
-    "💻 Scripting (Bash, YAML, Groovy)"
+    "💻 Scripting (Bash, YAML, Groovy, Python)"
   ],
   
   impact: "Improved software delivery by 45% and achieved 99.9% uptime across environments",
@@ -66,7 +66,7 @@ Jenkins | GitHub Actions | Maven | SonarQube
 CloudWatch | Prometheus | Grafana  
 
 **💻 Languages & Tools**  
-Bash | YAML | Groovy | Git | Linux  
+Bash | YAML | Groovy | Git | Linux | Python 
 
 ---
 
@@ -75,9 +75,9 @@ Bash | YAML | Groovy | Git | Linux
 | Category | Description | Repo |
 |-----------|--------------|------|
 | 🧩 **Ansible & Jenkins Integration** | Automated app deployment using Jenkins pipelines and Ansible playbooks | [ansible-project](https://github.com/cyprientemateu/ansible-project) |
-| 🧱 **Terraform DNS Automation** | Internal DNS resolution across AWS accounts using Route 53 Private Zones | Private Repo |
+| 🧱 **Terraform DNS Automation** | Route 53 Private Hosted Zone DNS across AWS accounts | Private Repo |
 | 🐳 **Dockerized User Registration App** | Full-stack registration app with frontend, backend API & Nginx reverse proxy | In Progress |
-| 🚀 **CI/CD Deployment Notebook** | GitHub Actions workflow deploying a notebook to EC2 | In Progress |
+| 🚀 **EC2 Deployment via GitHub Actions** | Notebook deployment pipeline to EC2 | In Progress |
 
 ---
 
@@ -118,8 +118,8 @@ Bash | YAML | Groovy | Git | Linux
 ---
 
 ## 🐍 Contribution Snake  
-![GitHub Snake Animation](https://raw.githubusercontent.com/cyprientemateu/cyprientemateu/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/cyprientemateu/cyprientemateu/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-✨ _“Building secure, scalable, and automated cloud systems — one commit at a time.”_ ✨  
+✨ _“Building secure, scalable, and automated cloud systems — one commit at a time.”_ ✨
