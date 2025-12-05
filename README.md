@@ -28,10 +28,10 @@ const cyprien = {
   location: "Forney, Texas 🌎",
   
   currentlyWorkingOn: {
-    " ci_cd 🚀": "Building CI/CD pipelines with Jenkins, GitHub Actions & Ansible",
-    "automation 🧠": "Infrastructure automation using Terraform, Docker, and Bash",
-    "cloud ☁️": "Designing and optimizing AWS cloud environments",
-    "security 🛡️": "Hardening infrastructure with DevSecOps and monitoring tools"
+    ci_cd 🚀: "Building CI/CD pipelines with Jenkins, GitHub Actions & Ansible",
+    automation 🧠: "Infrastructure automation using Terraform, Docker, and Bash",
+    cloud ☁️: "Designing and optimizing AWS cloud environments",
+    security 🛡️: "Hardening infrastructure with DevSecOps and monitoring tools"
   },
   
   expertise: [
