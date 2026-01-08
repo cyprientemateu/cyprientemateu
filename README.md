@@ -5,7 +5,7 @@
 
 ---
 <h1 align="center" style="background-color:#0d1117; color:#58a6ff; padding:15px; border-radius:10px;">
-  👋 Hi, I'm <span style="color:#facc15;">Cyprien Temateu</span> <br>
+  👋 Hey there, I'm <span style="color:#facc15;">Cyprien Temateu</span> <br>
   <span style="font-size:22px; color:#10b981;">DevOps Engineer | Cloud | Security Automation</span>
 </h1>
 
@@ -78,6 +78,7 @@ Bash | YAML | Groovy | Git | Linux | Python
 | 🧱 **Terraform DNS Automation** | Route 53 Private Hosted Zone DNS across AWS accounts | Private Repo |
 | 🐳 **Dockerized User Registration App** | Full-stack registration app with frontend, backend API & Nginx reverse proxy | In Progress |
 | 🚀 **EC2 Deployment via GitHub Actions** | Notebook deployment pipeline to EC2 | In Progress |
+| 🚀 **Flask + Docker + Nginx + Ansible** | Host a Dynamic Resume Locally | [Dynamic-Resume](https://github.com/cyprientemateu/projects-test/tree/main/demo-project3)
 
 ---
 
