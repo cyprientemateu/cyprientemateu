@@ -93,6 +93,7 @@ Bash | YAML | Groovy | Git | Linux | Python
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cyprientemateu&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </p>
+
 ---
 
 ## ⚡ GitHub Stats  
@@ -119,6 +120,7 @@ Bash | YAML | Groovy | Git | Linux | Python
 <p align="center">
   <img src="https://raw.githubusercontent.com/cyprientemateu/cyprientemateu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
 ---
 
 ✨ _“Building secure, scalable, and automated cloud systems — one commit at a time.”_ ✨
