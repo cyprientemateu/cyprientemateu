@@ -107,7 +107,7 @@ I am a **DevOps / DevSecOps Engineer** focused on designing **secure, scalable, 
 ![GitHub Workflow Status](https://github.com/cyprientemateu/projects-test/actions/workflows/main.yml/badge.svg)
 
 ### Terraform Deployment Pipeline
-![Terraform Workflow](https://github.com/cyprientemateu/projects-test/actions/workflows/github-actions.yaml/badge.svg)
+![Terraform Workflow](https://github.com/cyprientemateu/projects-test/actions/workflows/dockerhub-image-deploy.yml/badge.svg)
 
 ### Docker Build Pipeline
 ![Docker Workflow](https://github.com/cyprientemateu/github-action/actions/workflows/dockerhub-image-deploy.yml/badge.svg)
