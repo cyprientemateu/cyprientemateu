@@ -72,6 +72,62 @@ I am a **DevOps / DevSecOps Engineer** focused on designing **secure, scalable, 
 
 ---
 
+# 🚀 DevOps Engineering Dashboard
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Infrastructure-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Containers-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Automation-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+
+</p>
+
+---
+
+## 📊 Live Project Status
+
+| Service | Status |
+|----------|--------|
+| 🚀 CI/CD Pipeline | ![Pipeline](https://img.shields.io/badge/Pipeline-Passing-brightgreen?style=flat-square) |
+| ☁️ AWS Infrastructure | ![AWS](https://img.shields.io/badge/AWS-Operational-orange?style=flat-square) |
+| 🐳 Docker Services | ![Docker](https://img.shields.io/badge/Containers-Healthy-blue?style=flat-square) |
+| ☸️ Kubernetes Cluster | ![K8s](https://img.shields.io/badge/Kubernetes-Running-326CE5?style=flat-square) |
+| 🔐 DevSecOps Checks | ![Security](https://img.shields.io/badge/Security-Passed-success?style=flat-square) |
+| 📈 Monitoring Stack | ![Monitoring](https://img.shields.io/badge/Monitoring-Active-yellowgreen?style=flat-square) |
+
+---
+
+## 🔄 GitHub Actions Status
+
+### Main CI/CD Pipeline
+![GitHub Workflow Status](https://github.com/cyprientemateu/projects-test/actions/workflows/main.yml/badge.svg)
+
+### Terraform Deployment Pipeline
+![Terraform Workflow](https://github.com/cyprientemateu/projects-test/actions/workflows/terraform.yml/badge.svg)
+
+### Docker Build Pipeline
+![Docker Workflow](https://github.com/cyprientemateu/github-action/actions/workflows/docker.yml/badge.svg)
+
+---
+
+## ☁️ Infrastructure Overview
+
+```yaml
+Cloud Provider: AWS
+Infrastructure as Code: Terraform
+Container Platform: Kubernetes
+CI/CD Platform: GitHub Actions + Jenkins
+Monitoring: CloudWatch + Prometheus + Grafana
+Security: DevSecOps + IAM + SonarQube
+Deployment Strategy: Automated
+```
+
+---
+
 ## 📈 Contribution Graph
 
 <p align="center"> 
