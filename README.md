@@ -89,16 +89,6 @@ Bash | YAML | Groovy | Git | Linux | Python
 
 ---
 
-## 🔥 GitHub Activity
-
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cyprientemateu&theme=tokyonight"/>
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cyprientemateu&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -107,12 +97,12 @@ Bash | YAML | Groovy | Git | Linux | Python
 
 ---
 
-## 🏆 GitHub Achievements & Trophies
+## 💻 Top Languages
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=cyprientemateu&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
-    alt="GitHub Trophies"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyprientemateu&layout=compact&theme=tokyonight&langs_count=8"
+    alt="Top Languages"
   />
 </p>
 
