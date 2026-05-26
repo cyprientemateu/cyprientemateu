@@ -1,142 +1,136 @@
-<!-- Header with name and title -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E22CE&height=240&section=header&text=Cyprien%20Temateu%20%7C%20DevOps%20Engineer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E22CE&height=220&section=header&text=Cyprien%20Temateu%20|%20DevOps%20Engineer&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=700&lines=AWS+%7C+Terraform+%7C+Kubernetes+%7C+DevSecOps;CI%2FCD+Automation+%7C+Infrastructure+as+Code;Cloud+Security+%7C+Observability+%7C+Scalability;Building+Secure+and+Automated+Cloud+Systems" />
 </p>
 
 ---
-<h1 align="center" style="background-color:#0d1117; color:#58a6ff; padding:15px; border-radius:10px;">
-  👋 Hey there, I'm <span style="color:#facc15;">Cyprien Temateu</span> <br>
-  <span style="font-size:22px; color:#10b981;">DevOps Engineer | Cloud | Security Automation</span>
-</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=AWS+Certified+%7C+Kubernetes+%7C+Jenkins;Terraform+%7C+Ansible+%7C+Docker;CI%2FCD+Pipeline+Automation;Cloud+Security+%26+Monitoring" alt="Typing SVG" />
-</p>
+## 👋 About Me
 
-## 🚀 About Me  
-```js
-const cyprien = {
-  pronouns: "He/Him",
-  role: "DevOps Engineer | Cloud & Infrastructure Specialist",
-  location: "Forney, Texas 🌎",
-  
-  currentlyWorkingOn: {
-    ci_cd: "Building CI/CD pipelines with Jenkins, GitHub Actions & Ansible",
-    automation: "Infrastructure automation using Terraform, Docker, and Bash",
-    cloud: "Designing and optimizing AWS cloud environments",
-    security: "Hardening infrastructure with DevSecOps and monitoring tools"
-  },
-  
-  expertise: [
-    "☁️ Cloud Infrastructure (AWS, EC2, VPC, IAM, S3)",
-    "🏗️ Infrastructure as Code (Terraform, Ansible)",
-    "🔄 CI/CD Pipelines (Jenkins, GitHub Actions)",
-    "🐳 Containers & Orchestration (Docker, Kubernetes, ArgoCD)",
-    "📊 Monitoring & Observability (CloudWatch, Prometheus, Grafana)",
-    "🛡️ DevSecOps & Automation",
-    "💻 Scripting (Bash, YAML, Groovy, Python)"
-  ],
-  
-  impact: "Improved software delivery by 45% and achieved 99.9% uptime across environments",
-  funFact: "I automate deployments faster than I can grill chicken 🍗🔥"
-};
-```
+I am a **DevOps / DevSecOps Engineer** focused on designing **secure, scalable, and fully automated cloud infrastructure**.
+
+📍 Forney, Texas  
+☁️ AWS | Kubernetes | Terraform | CI/CD | DevSecOps  
+
+### 🚀 What I do
+- Cloud infrastructure design & optimization (AWS)
+- Infrastructure as Code (Terraform, Ansible)
+- CI/CD pipeline automation (Jenkins, GitHub Actions)
+- Container orchestration (Docker, Kubernetes, ArgoCD)
+- Security automation & observability (DevSecOps)
+
+### 🔭 Current Focus
+- Building production-style CI/CD pipelines
+- Improving cloud security posture (IAM, least privilege, monitoring)
+- Expanding Kubernetes + GitOps automation workflows
+- Strengthening real-world DevSecOps project portfolio
+
+💡 *Fun fact:* I automate systems like I grill chicken — fast, consistent, and repeatable 🍗🔥
 
 ---
 
-## 🛠️ Technology Universe  
+## 🛠️ Tech Stack
 
-**☁️ Cloud & Infrastructure**  
-AWS | Terraform | Ansible | EC2 | Route 53 | VPC | IAM  
-
-**🐳 Containers & Orchestration**  
-Docker | Kubernetes | ArgoCD  
-
-**🔄 CI/CD & Automation**  
-Jenkins | GitHub Actions | Maven | SonarQube  
-
-**📊 Monitoring & Observability**  
-CloudWatch | Prometheus | Grafana  
-
-**💻 Languages & Tools**  
-Bash | YAML | Groovy | Git | Linux | Python 
-
----
-
-## 🏗️ Featured Projects  
-
-| Category | Description | Repo |
-|-----------|--------------|------|
-| 🧩 **Ansible & Jenkins Integration** | Automated app deployment using Jenkins pipelines and Ansible playbooks | [ansible-project](https://github.com/cyprientemateu/ansible-project) |
-| 🧱 **Terraform DNS Automation** | Route 53 Private Hosted Zone DNS across AWS accounts | Private Repo |
-| 🐳 **Dockerized User Registration App** | Full-stack registration app with frontend, backend API & Nginx reverse proxy | In Progress |
-| 🚀 **EC2 Deployment via GitHub Actions** | Notebook deployment pipeline to EC2 | In Progress |
-| 🚀 **Flask + Docker + Nginx + Ansible** | Host a Dynamic Resume Locally | [Dynamic-Resume](https://github.com/cyprientemateu/projects-test/tree/main/demo-project3) |
-
----
-
-## 📈 Skill Mastery Levels  
-
-| Skill | Level |
-|--------|--------|
-| DevOps & Automation | ████████████████████████████████████ 100% |
-| Cloud Infrastructure (AWS) | ██████████████████████████████████ 95% |
-| Containerization (Docker, K8s) | ████████████████████████████████ 94% |
-| IaC (Terraform, Ansible) | ████████████████████████████████ 93% |
-| CI/CD Pipelines | ████████████████████████████████ 92% |
-| Monitoring & Logging | ████████████████████████████████ 91% |
-| Security & Compliance | ██████████████████████████████ 89% |
-
----
-
-## 💻 Core Technologies
-
+### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+AWS (EC2, VPC, IAM, S3, Route 53)
+
+### ⚙️ Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+Terraform | Ansible
+
+### 🔄 CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+Jenkins | GitHub Actions | Maven | SonarQube
+
+### 🐳 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+Docker | Kubernetes | ArgoCD
+
+### 📊 Observability
+CloudWatch | Prometheus | Grafana
+
+### 💻 Languages & Scripting
+Python | Bash | Groovy | YAML | Git
 
 ---
 
-## 📈 Contribution Graph
+## 🚀 Featured Projects
+
+### 🧱 AWS Infrastructure as Code (Terraform)
+- Built modular AWS environments (VPC, EC2, IAM, Route 53)
+- Designed reusable Terraform modules for scalability
+
+### 🔄 CI/CD Automation Pipeline
+- Jenkins + GitHub Actions pipeline
+- Automated build, test, and deployment workflows
+- Integrated security scanning (SonarQube)
+
+### 🐳 Full-Stack Dockerized App
+- User registration system (Frontend + API + Nginx reverse proxy)
+- Containerized deployment using Docker Compose
+
+### ☁️ Kubernetes DevOps Lab
+- Hands-on environment for Kubernetes, Terraform, and Ansible
+- Used for testing automation and deployment strategies
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyprientemateu&theme=tokyo-night"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cyprientemateu&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cyprientemateu&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyprientemateu&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## ⚡ GitHub Stats
+## 📈 DevOps Mindset
+
+> “DevOps is not about tools — it is about building systems that are reliable, automated, secure, and repeatable at scale.”
+
+I focus on:
+- Reliability under production load
+- Automation over manual processes
+- Security by design (DevSecOps principles)
+- Scalable cloud-native architecture
+
+---
+
+## 🧭 Professional Values
+
+- Automation first
+- Infrastructure as code everywhere
+- Security is not optional
+- Observability is mandatory
+- Simplicity beats complexity
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/cctemateu  
+🐙 GitHub: https://github.com/cyprientemateu  
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cyprientemateu&theme=tokyonight"/>
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cyprientemateu&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyprientemateu&layout=compact&theme=tokyonight&cache_seconds=1800&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/cyprientemateu/cyprientemateu/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 💬 Philosophy  
-> “Automation and reliability go hand in hand — true DevOps isn’t about tools, but about building resilient systems that empower teams and simplify complexity.”
+## ✨ Closing Statement
 
----
-
-## 🌐 Let's Connect & Collaborate  
-💼 [LinkedIn](https://www.linkedin.com/in/cctemateu)  
-🐙 [GitHub](https://github.com/cyprientemateu)
-
----
-
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cyprientemateu/cyprientemateu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-✨ _“Building secure, scalable, and automated cloud systems — one commit at a time.”_ ✨
+> *Building secure, scalable, and automated cloud systems — one pipeline, one cluster, one commit at a time.*
