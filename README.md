@@ -13,13 +13,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=AWS+Certified+%7C+Kubernetes+%7C+Jenkins;Terraform+%7C+Ansible+%7C+Docker;CI%2FCD+Pipeline+Automation;Cloud+Security+%26+Monitoring" alt="Typing SVG" />
 </p>
 
-### 🐍 My Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cyprientemateu/cyprientemateu/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
-
-
 ## 🚀 About Me  
 ```js
 const cyprien = {
@@ -28,10 +21,10 @@ const cyprien = {
   location: "Forney, Texas 🌎",
   
   currentlyWorkingOn: {
-    ci_cd 🚀: "Building CI/CD pipelines with Jenkins, GitHub Actions & Ansible",
-    automation 🧠: "Infrastructure automation using Terraform, Docker, and Bash",
-    cloud ☁️: "Designing and optimizing AWS cloud environments",
-    security 🛡️: "Hardening infrastructure with DevSecOps and monitoring tools"
+    ci_cd: "Building CI/CD pipelines with Jenkins, GitHub Actions & Ansible",
+    automation: "Infrastructure automation using Terraform, Docker, and Bash",
+    cloud: "Designing and optimizing AWS cloud environments",
+    security: "Hardening infrastructure with DevSecOps and monitoring tools"
   },
   
   expertise: [
@@ -97,13 +90,17 @@ Bash | YAML | Groovy | Git | Linux | Python
 ---
 
 ## 🏆 GitHub Achievements & Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cyprientemateu&theme=algolia&margin-w=10)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cyprientemateu&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+</p>
 ---
 
 ## ⚡ GitHub Stats  
-![Cyprien's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyprientemateu&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyprientemateu&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyprientemateu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyprientemateu&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -119,8 +116,9 @@ Bash | YAML | Groovy | Git | Linux | Python
 ---
 
 ## 🐍 Contribution Snake  
-![snake gif](https://github.com/cyprientemateu/cyprientemateu/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cyprientemateu/cyprientemateu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 ---
 
 ✨ _“Building secure, scalable, and automated cloud systems — one commit at a time.”_ ✨
