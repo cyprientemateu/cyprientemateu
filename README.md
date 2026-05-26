@@ -89,18 +89,24 @@ Bash | YAML | Groovy | Git | Linux | Python
 
 ---
 
-## 🏆 GitHub Achievements & Trophies  
+## 🏆 GitHub Achievements & Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cyprientemateu&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=cyprientemateu&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </p>
 
 ---
 
-## ⚡ GitHub Stats  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyprientemateu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+## ⚡ GitHub Stats
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyprientemateu&layout=compact&langs_count=8&theme=tokyonight"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cyprientemateu&theme=tokyonight"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cyprientemateu&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyprientemateu&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
