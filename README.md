@@ -107,10 +107,10 @@ I am a **DevOps / DevSecOps Engineer** focused on designing **secure, scalable, 
 ![GitHub Workflow Status](https://github.com/cyprientemateu/projects-test/actions/workflows/main.yml/badge.svg)
 
 ### Terraform Deployment Pipeline
-![Terraform Workflow](https://github.com/cyprientemateu/projects-test/actions/workflows/terraform.yml/badge.svg)
+![Terraform Workflow](https://github.com/cyprientemateu/projects-test/actions/workflows/deploy-notebook.yml/badge.svg)
 
 ### Docker Build Pipeline
-![Docker Workflow](https://github.com/cyprientemateu/github-action/actions/workflows/docker.yml/badge.svg)
+![Docker Workflow](https://github.com/cyprientemateu/github-action/actions/workflows/dockerhub-image-deploy.yml/badge.svg)
 
 ---
 
@@ -125,14 +125,6 @@ Monitoring: CloudWatch + Prometheus + Grafana
 Security: DevSecOps + IAM + SonarQube
 Deployment Strategy: Automated
 ```
-
----
-
-## 📈 Contribution Graph
-
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyprientemateu&theme=tokyo-night"/> 
-</p>
 
 ---
 
@@ -196,6 +188,14 @@ I focus on:
 
 💼 [LinkedIn](https://www.linkedin.com/in/cctemateu)  
 🐙 [GitHub](https://github.com/cyprientemateu)  
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyprientemateu&theme=tokyo-night"/> 
+</p>
 
 ---
 
