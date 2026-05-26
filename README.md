@@ -89,21 +89,20 @@ Bash | YAML | Groovy | Git | Linux | Python
 
 ---
 
+## 💻 Core Technologies
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyprientemateu&theme=tokyo-night"/>
-</p>
-
----
-
-## 💻 Top Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyprientemateu&layout=compact&theme=tokyonight&langs_count=8"
-    alt="Top Languages"
-  />
 </p>
 
 ---
@@ -117,7 +116,7 @@ Bash | YAML | Groovy | Git | Linux | Python
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyprientemateu&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyprientemateu&layout=compact&theme=tokyonight&cache_seconds=1800&hide_border=true"/>
 </p>
 
 ---
