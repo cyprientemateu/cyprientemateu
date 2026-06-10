@@ -2,16 +2,26 @@ name: Generate Snake Animation
 
 on:
   schedule:
+    # Run every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate GitHub contribution snake (SVG only)
         uses: Platane/snk/svg-only@v3
@@ -21,10 +31,34 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Create output branch if it doesn't exist
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git fetch origin output 2>/dev/null || echo "Output branch does not exist"
+
       - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          force_orphan: true
 
+      - name: Workflow completion notification
+        if: success()
+        run: |
+          echo "✅ Snake animation generated successfully!"
+          echo "📍 Output branch: output"
+          echo "📄 Files: dist/github-contribution-grid-snake.svg"
+          echo "📄 Files: dist/github-contribution-grid-snake-dark.svg"
+
+      - name: Workflow failure notification
+        if: failure()
+        run: |
+          echo "❌ Snake animation generation failed"
+          echo "Please check:"
+          echo "1. GITHUB_TOKEN has write permissions"
+          echo "2. Repository settings allow workflows to write"
+          echo "3. Output branch exists or will be auto-created"
+          exit 1
