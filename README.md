@@ -24,10 +24,10 @@ I am a **DevOps / DevSecOps Engineer** focused on designing **secure, scalable, 
 - Security automation & observability (DevSecOps)
 
 ### 🔭 Current Focus
-- Building production-style CI/CD pipelines
-- Improving cloud security posture (IAM, least privilege, monitoring)
-- Expanding Kubernetes + GitOps automation workflows
-- Strengthening real-world DevSecOps project portfolio
+- Rebuilding a microservices e-commerce platform end-to-end with a security-first CI/CD pipeline — secrets scanning, dual SAST, SCA, container scanning, SBOM generation, and image signing on every build
+- Building a production-style NetDevOps automation framework for Cisco IOS-XE (Netmiko, RESTCONF, drift detection, compliance dashboard)
+- Completing an AAS in Cybersecurity (Cyber Defense track) — applying DevSecOps practices learned in coursework directly to personal projects
+- Expanding Kubernetes + GitOps automation workflows (Helm, ArgoCD)
 
 💡 *Fun fact:* I automate systems like I grill chicken — fast, consistent, and repeatable 🍗🔥
 
@@ -103,14 +103,8 @@ I am a **DevOps / DevSecOps Engineer** focused on designing **secure, scalable, 
 
 ## 🔄 GitHub Actions Status
 
-### Main CI/CD Pipeline
-![GitHub Workflow Status](https://github.com/cyprientemateu/projects-test/actions/workflows/main.yml/badge.svg)
-
-### Terraform Deployment Pipeline
-![Terraform Workflow](https://github.com/cyprientemateu/projects-test/actions/workflows/dockerhub-image-deploy.yml/badge.svg)
-
-### Docker Build Pipeline
-![Docker Workflow](https://github.com/cyprientemateu/github-action/actions/workflows/dockerhub-image-deploy.yml/badge.svg)
+### Revive E-Commerce CI Pipeline
+![Revive CI](https://github.com/cyprientemateu/cyprien-ecommerce-project/actions/workflows/ci.yml/badge.svg)
 
 ---
 
@@ -130,22 +124,24 @@ Deployment Strategy: Automated
 
 ## 🚀 Featured Projects
 
-### 🧱 AWS Infrastructure as Code (Terraform)
-- Built modular AWS environments (VPC, EC2, IAM, Route 53)
-- Designed reusable Terraform modules for scalability
+### 🛍️ Revive E-Commerce Platform — DevSecOps Rebuild
+A microservices e-commerce app rebuilt from the ground up with a self-owned, security-first CI pipeline — split across two paired repos.
+- Consolidated GitHub Actions CI replacing three overlapping legacy Jenkinsfiles
+- Secrets scanning, dual SAST (SonarCloud + Semgrep), per-language SCA, Trivy container scanning, Syft SBOM generation, cosign image signing
+- Companion GitOps repo deploying via Helm + ArgoCD onto a local Kubernetes cluster
+- Full engineering journal documenting every phase, bugs found, and fixes
+- [App & CI repo](https://github.com/cyprientemateu/cyprien-ecommerce-project) · [GitOps/CD repo](https://github.com/cyprientemateu/cyprien-ecommerce-project-automation)
 
-### 🔄 CI/CD Automation Pipeline
-- Jenkins + GitHub Actions pipeline
-- Automated build, test, and deployment workflows
-- Integrated security scanning (SonarQube)
+### 📘 NetDevOps Automation Framework
+Production-style Python automation for Cisco IOS-XE devices (Netmiko, Cisco DevNet Sandbox).
+- YAML-driven inventory, Jinja2 templating, Pydantic schema validation
+- Drift detection with dual-layer RESTCONF validation
+- Sequential + parallel multi-device orchestration, structured logging, scheduled compliance jobs
+- Flask compliance dashboard deployed with Gunicorn
+- [Repo](https://github.com/cyprientemateu/python-netmiko-devnet-cisco-automation-lab)
 
-### 🐳 Full-Stack Dockerized App
-- User registration system (Frontend + API + Nginx reverse proxy)
-- Containerized deployment using Docker Compose
-
-### ☁️ Kubernetes DevOps Lab
-- Hands-on environment for Kubernetes, Terraform, and Ansible
-- Used for testing automation and deployment strategies
+### 🛡️ Cyber Defense Lab (AAS Capstone)
+A fully automated, self-bootstrapping AWS Active Directory environment mapping each cybersecurity course to a concrete lab layer — Terraform for provisioning, Ansible for configuration, all management traffic kept internal to the VPC.
 
 ---
 
@@ -164,7 +160,7 @@ Deployment Strategy: Automated
 
 ## 📈 DevOps Mindset
 
-> “DevOps is not about tools — it is about building systems that are reliable, automated, secure, and repeatable at scale.”
+> "DevOps is not about tools — it is about building systems that are reliable, automated, secure, and repeatable at scale."
 
 I focus on:
 - Reliability under production load
